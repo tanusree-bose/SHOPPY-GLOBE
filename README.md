@@ -21,7 +21,7 @@ To set up **Shoppy Globe** locally, follow these steps:
 
 1. **Clone the Repository**:
   
-   git clone https://github.com/tanusree-bose/SHOOPHY-GLOBE
+   git clone https://github.com/tanusree-bose/SHOOPY-GLOBE
 
    cd shoppy-globe
 
